@@ -79,9 +79,10 @@ export const SkillsData=[
                 icon:<i class="devicon-googlecloud-plain colored"></i>,
             },
             {
-                name:"Firebase",
-                icon:<i class="devicon-firebase-plain colored"></i>,
-            }
+                name:"Azure",
+                icon:<i class="devicon-azure-plain colored"></i>
+              
+            },
         ],
 
     },

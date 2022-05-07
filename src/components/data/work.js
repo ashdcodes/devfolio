@@ -30,7 +30,7 @@ export const WorkData=[
         company:"Our Hiraya",
         designation:"React and NodeJs Developer",
         type:"Contract",
-        dateJoin:"Sept 2021",
+        dateJoin:"Dec 2021",
         dateEnd:"April 2022",
         companyLogo:require('../../assets/company-logo/ourhiraya.png').default,
         description:"I was responsible for creating and deploying core products on cloud infrastructures.",
