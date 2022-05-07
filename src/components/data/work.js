@@ -26,4 +26,13 @@ export const WorkData=[
         companyLogo:require('../../assets/company-logo/runnersplanet.png').default,
         description:"I was responsible for implementing business logic.",
     },
+    {
+        company:"Our Hiraya",
+        designation:"React and NodeJs Developer",
+        type:"Contract",
+        dateJoin:"Sept 2021",
+        dateEnd:"April 2022",
+        companyLogo:require('../../assets/company-logo/ourhiraya.png').default,
+        description:"I was responsible for creating and deploying core products on cloud infrastructures.",
+    },
 ]
