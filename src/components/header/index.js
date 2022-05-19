@@ -7,7 +7,9 @@ const [isOpen,setIsOpen]=useState(false);
 
     return (
         <div className="header">
-           <div className="logo">AKD</div>
+           <div className="logo">
+               <img src='https://ashdcodes.com/logo.jpg' alt='logo'></img>
+           </div>
            <div className="menu">
                <div className="web-menu">
                    <Web />
